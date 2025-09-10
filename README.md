@@ -4,10 +4,10 @@
 This repository contains my solutions for **Experiment 3: Python Data Analysis (Pandas)**.
 
 ## Table of Contents  
-Problem 1: 
-Problem 2: 
+Problem 1: https://github.com/supremoace/BALINDONG_2ECEB_ECE2112_PA3/blob/main/PA3.2.ipynb
+Problem 2: https://github.com/supremoace/BALINDONG_2ECEB_ECE2112_PA3/blob/main/PA3.2.ipynb
 
-## Programming Assignment 3  
+## PA 3 - Pandas
 
 ### Problem 1  
 **Task:** In this project, we are tasked to load a .csv file into a Pandas DataFrame and display the first and last five rows.
