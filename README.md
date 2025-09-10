@@ -5,6 +5,7 @@ This repository contains my solutions for **Experiment 3: Python Data Analysis (
 
 ## Table of Contents  
 Problem 1: https://github.com/supremoace/BALINDONG_2ECEB_ECE2112_PA3/blob/main/PA3.2.ipynb
+
 Problem 2: https://github.com/supremoace/BALINDONG_2ECEB_ECE2112_PA3/blob/main/PA3.2.ipynb
 
 ## PA 3 - Pandas
